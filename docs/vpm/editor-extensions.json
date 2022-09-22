@@ -1,0 +1,90 @@
+{
+  "name": "Varneon - Editor Extensions",
+  "author": "https://github.com/Varneon",
+  "url": "https://Varneon.github.io/Repositories/vpm/editor-extensions.json?download",
+  "packages": {
+    "com.varneon.package-exporter": {
+      "versions": {
+        "0.2.1": {
+          "name": "com.varneon.package-exporter",
+          "version": "0.2.1",
+          "description": "Unity Editor extension for exporting consistent revisions of unitypackages with custom configurations.",
+          "displayName": "Package Exporter",
+          "unity": "2019.4",
+          "author": {
+            "name": "Varneon",
+            "url": "https://github.com/Varneon"
+          },
+          "url": "https://8tyw73nd.directus.app/assets/932d3d1d-0a21-4e0b-9c14-6d68d34b9865?download"
+        }
+      }
+    },
+    "com.varneon.upm-package-generator": {
+      "versions": {
+        "0.1.0": {
+          "name": "com.varneon.upm-package-generator",
+          "version": "0.1.0",
+          "description": "Unity Editor extension for generating UPM packages",
+          "displayName": "UPM Package Generator",
+          "unity": "2019.4",
+          "author": {
+            "name": "Varneon",
+            "url": "https://github.com/Varneon"
+          },
+          "dependencies": {
+            "com.unity.nuget.newtonsoft-json": "3.0.2"
+          },
+          "url": "https://github.com/Varneon/UPM-Package-Generator/releases/download/0.1.0/com.varneon.upm-package-generator-0.1.0.zip?download"
+        }
+      }
+    },
+    "com.varneon.editor-utilities": {
+      "versions": {
+        "0.1.1": {
+          "name": "com.varneon.editor-utilities",
+          "version": "0.1.1",
+          "displayName": "Varneon's Editor Utilities",
+          "description": "Collection of useful Unity Editor utilities ranging from small macros to full toolkits",
+          "author": {
+            "name": "Varneon",
+            "url": "https://github.com/Varneon"
+          },
+          "unity": "2019.4",
+          "unityRelease": "29f1",
+          "url": "https://github.com/Varneon/UnityEditorUtilities/releases/download/0.1.1/com.varneon.editor-utilities-0.1.1.zip?download"
+        }
+      }
+    },
+    "com.varneon.fbx-to-blender-importer": {
+      "versions": {
+        "0.3.0": {
+          "name": "com.varneon.fbx-to-blender-importer",
+          "version": "0.3.0",
+          "displayName": "FBX To Blender Importer",
+          "description": "Editor extension for importing FBX models from Unity into Blender using Python expressions",
+          "author": {
+            "name": "Varneon",
+            "url": "https://github.com/Varneon"
+          },
+          "url": "https://github.com/Varneon/UnityFBX-To-Blender-Importer/releases/download/0.3.0/com.varneon.fbx-to-blender-importer-0.3.0.zip?download"
+        }
+      }
+    },
+    "com.varneon.v-inspector": {
+      "versions": {
+        "0.1.0": {
+          "name": "com.varneon.v-inspector",
+          "version": "0.1.0",
+          "displayName": "V-Inspector",
+          "description": "Custom inspector toolkit for creating custom editors powered by UIToolkit",
+          "author": {
+            "name": "Varneon",
+            "url": "https://github.com/Varneon"
+          },
+          "unity": "2019.4",
+          "url": "https://github.com/Varneon/V-Inspector/releases/download/0.1.0/com.varneon.v-inspector-0.1.0.zip?download"
+        }
+      }
+    }
+  }
+}
