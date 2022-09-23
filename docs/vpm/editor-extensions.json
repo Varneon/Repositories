@@ -1,13 +1,13 @@
 {
   "name": "Varneon - Editor Extensions",
   "author": "https://github.com/Varneon",
-  "url": "https://Varneon.github.io/Repositories/vpm/editor-extensions.json?download",
+  "url": "https://Varneon.github.io/Repositories/vpm/editor-extensions.json",
   "packages": {
     "com.varneon.package-exporter": {
       "versions": {
-        "0.2.1": {
+        "0.3.0": {
           "name": "com.varneon.package-exporter",
-          "version": "0.2.1",
+          "version": "0.3.0",
           "description": "Unity Editor extension for exporting consistent revisions of unitypackages with custom configurations.",
           "displayName": "Package Exporter",
           "unity": "2019.4",
@@ -15,7 +15,14 @@
             "name": "Varneon",
             "url": "https://github.com/Varneon"
           },
-          "url": "https://8tyw73nd.directus.app/assets/932d3d1d-0a21-4e0b-9c14-6d68d34b9865?download"
+          "samples": [
+            {
+              "displayName": "Self-Export Configuration",
+              "description": "Export configuration for exporting Unitypackage Exporter",
+              "path": "Samples~/Self-Export Configuration"
+            }
+          ],
+          "url": "https://github.com/Varneon/Unitypackage-Exporter/releases/download/0.3.0/com.varneon.package-exporter-0.3.0.zip?download"
         }
       }
     },

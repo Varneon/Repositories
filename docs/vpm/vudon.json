@@ -1,7 +1,7 @@
 {
   "name": "Varneon - VUdon",
   "author": "https://github.com/Varneon",
-  "url": "https://Varneon.github.io/Repositories/vpm/vudon.json?download",
+  "url": "https://Varneon.github.io/Repositories/vpm/vudon.json",
   "packages": {
     "com.varneon.vudon.depth-buffer-toolkit": {
       "versions": {
