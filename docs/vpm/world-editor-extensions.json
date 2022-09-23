@@ -1,7 +1,7 @@
 {
   "name": "Varneon - World Editor Extensions",
   "author": "https://github.com/Varneon",
-  "url": "https://Varneon.github.io/Repositories/vpm/world-editor-extensions.json?download",
+  "url": "https://Varneon.github.io/Repositories/vpm/world-editor-extensions.json",
   "packages": {
     "com.varneon.udonexplorer": {
       "versions": {
