@@ -1,6 +1,17 @@
 # Repositories
 A hub for all of repositories developed by Varneon
 
+> ### Repository listing website will be available Soon™
+
+## VPM Repository Listings
+
+https://vpm.varneon.com/vudon
+
+https://vpm.varneon.com/editor-extensions
+
+https://vpm.varneon.com/world-editor-extensions
+
+
 <div align="center">
 
 ## Developed by Varneon with :hearts:
