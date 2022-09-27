@@ -91,6 +91,31 @@
           "url": "https://github.com/Varneon/VUdon-VisibilitySensors/releases/download/0.0.1/com.varneon.vudon.visibility-sensors-0.0.1.zip?download"
         }
       }
+    },
+    "com.varneon.vudon.noclip": {
+      "versions": {
+        "0.1.0": {
+          "name": "com.varneon.vudon.noclip",
+          "displayName": "VUdon - Noclip",
+          "version": "0.1.0",
+          "unity": "2019.4",
+          "unityRelease": "29f1",
+          "description": "Noclip for worlds",
+          "author": {
+            "name": "Varneon",
+            "url": "https://github.com/Varneon"
+          },
+          "dependencies": {
+            "com.vrchat.udonsharp": "1.0.1",
+            "com.varneon.neon-inspector": "0.0.1"
+          },
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.x.x",
+            "com.varneon.neon-inspector": "0.0.1"
+          },
+          "url": "https://github.com/Varneon/VUdon-Noclip/releases/download/0.1.0/com.varneon.vudon.noclip-0.1.0.zip?download"
+        }
+      }
     }
   }
 }

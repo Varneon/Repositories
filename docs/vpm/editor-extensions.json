@@ -92,6 +92,29 @@
           "url": "https://github.com/Varneon/V-Inspector/releases/download/0.1.0/com.varneon.v-inspector-0.1.0.zip?download"
         }
       }
+    },
+    "com.varneon.neon-inspector": {
+      "versions": {
+        "0.0.1": {
+          "name": "com.varneon.neon-inspector",
+          "displayName": "Neon Inspector",
+          "version": "0.0.1",
+          "unity": "2019.4",
+          "unityRelease": "29f1",
+          "description": "Custom neon-style inspector for V-Inspector",
+          "author": {
+            "name": "Varneon",
+            "url": "https://github.com/Varneon"
+          },
+          "dependencies": {
+            "com.varneon.v-inspector": "0.1.0"
+          },
+          "vpmDependencies": {
+            "com.varneon.v-inspector": "0.1.0"
+          },
+          "url": "https://github.com/Varneon/Neon-Inspector/releases/download/0.0.1/com.varneon.neon-inspector-0.0.1.zip?download"
+        }
+      }
     }
   }
 }
