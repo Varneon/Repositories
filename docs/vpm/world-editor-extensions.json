@@ -22,6 +22,25 @@
             "Assets\\Varneon\\UdonExplorer": ""
           },
           "url": "https://github.com/Varneon/UdonExplorer/releases/download/0.3.2/com.varneon.udonexplorer-0.3.2.zip?download"
+        },
+        "0.3.3": {
+          "name": "com.varneon.udonexplorer",
+          "displayName": "UdonExplorer",
+          "version": "0.3.3",
+          "unity": "2019.4",
+          "description": "Unity Editor extension for easily exploring all VRCSDK3 UdonBehaviours in your Unity scene.",
+          "author": {
+            "name": "Varneon",
+            "url": "https://github.com/Varneon"
+          },
+          "vpmDependencies": {
+            "com.vrchat.worlds": "3.x.x"
+          },
+          "legacyFolders": {
+            "Assets\\Varneon\\UdonExplorer": ""
+          },
+          "unityRelease": "29f1",
+          "url": "https://github.com/Varneon/UdonExplorer/releases/download/0.3.3/com.varneon.udonexplorer-0.3.3.zip?download"
         }
       }
     }
