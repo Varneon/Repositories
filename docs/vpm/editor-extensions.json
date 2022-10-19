@@ -115,6 +115,21 @@
           "url": "https://github.com/Varneon/Neon-Inspector/releases/download/0.0.1/com.varneon.neon-inspector-0.0.1.zip?download"
         }
       }
+    },
+    "com.varneon.asset-move-prompt": {
+      "versions": {
+        "0.1.2": {
+          "name": "com.varneon.asset-move-prompt",
+          "version": "0.1.2",
+          "description": "Simple dialog for verifying user's intentions of moving assets inside Unity",
+          "displayName": "Asset Move Prompt",
+          "author": {
+            "name": "Varneon",
+            "url": "https://github.com/Varneon"
+          },
+          "url": "https://github.com/Varneon/Unity-Asset-Move-Prompt/releases/download/0.1.2/com.varneon.asset-move-prompt-0.1.2.zip?download"
+        }
+      }
     }
   }
 }
