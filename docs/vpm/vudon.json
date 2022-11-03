@@ -174,6 +174,50 @@
           "url": "https://github.com/Varneon/VUdon-Logger/releases/download/0.1.0/com.varneon.vudon.logger-0.1.0.zip?download"
         }
       }
+    },
+    "com.varneon.vudon.common": {
+      "versions": {
+        "0.1.0": {
+          "name": "com.varneon.vudon.common",
+          "displayName": "VUdon - Common",
+          "version": "0.1.0",
+          "unity": "2019.4",
+          "unityRelease": "29f1",
+          "description": "Common resources for the VUdon ecosystem",
+          "author": {
+            "name": "Varneon",
+            "url": "https://github.com/Varneon"
+          },
+          "url": "https://github.com/Varneon/VUdon-Common/releases/download/0.1.0/com.varneon.vudon.common-0.1.0.zip?download"
+        }
+      }
+    },
+    "com.varneon.vudon.event-dispatcher": {
+      "versions": {
+        "0.1.0-alpha.1": {
+          "name": "com.varneon.vudon.event-dispatcher",
+          "displayName": "VUdon - Event Dispatcher",
+          "version": "0.1.0-alpha.1",
+          "unity": "2019.4",
+          "unityRelease": "29f1",
+          "description": "Dispatcher for allowing UdonSharpBehaviours to receive delegated update events",
+          "author": {
+            "name": "Varneon",
+            "url": "https://github.com/Varneon"
+          },
+          "dependencies": {
+            "com.vrchat.udonsharp": "1.0.1",
+            "com.varneon.neon-inspector": "0.0.1",
+            "com.varneon.vudon.array-extensions": "0.2.0"
+          },
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.x.x",
+            "com.varneon.neon-inspector": "0.0.1",
+            "com.varneon.vudon.array-extensions": "0.2.0"
+          },
+          "url": "https://github.com/Varneon/VUdon-EventDispatcher/releases/download/0.1.0-alpha.1/com.varneon.vudon.event-dispatcher-0.1.0-alpha.1.zip?download"
+        }
+      }
     }
   }
 }
