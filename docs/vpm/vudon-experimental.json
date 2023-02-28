@@ -71,6 +71,52 @@
           "url": "https://github.com/Varneon/VUdon-LayerMaskDropdown/releases/download/0.1.0-alpha.1/com.varneon.vudon.layermask-dropdown-0.1.0-alpha.1.zip?download"
         }
       }
+    },
+    "com.varneon.vudon.player-scale-utility": {
+      "versions": {
+        "0.1.0-alpha.1": {
+          "name": "com.varneon.vudon.player-scale-utility",
+          "displayName": "VUdon - Player Scale Utility",
+          "version": "0.1.0-alpha.1",
+          "unity": "2019.4",
+          "unityRelease": "29f1",
+          "description": "Utility for receiving the relative scale of the player for calibrating e.g. IPD, pointers and quick menus",
+          "author": {
+            "name": "Varneon",
+            "url": "https://github.com/Varneon"
+          },
+          "dependencies": {
+            "com.vrchat.udonsharp": "1.0.1"
+          },
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.x.x"
+          },
+          "url": "https://github.com/Varneon/VUdon-PlayerScaleUtility/releases/download/0.1.0-alpha.1/com.varneon.vudon.player-scale-utility-0.1.0-alpha.1.zip?download"
+        }
+      }
+    },
+    "com.varneon.vudon.udon-asset-database": {
+      "versions": {
+        "0.1.0-alpha.1": {
+          "name": "com.varneon.vudon.udon-asset-database",
+          "displayName": "VUdon - UdonAssetDatabase",
+          "version": "0.1.0-alpha.1",
+          "unity": "2019.4",
+          "unityRelease": "29f1",
+          "description": "UdonSharp prefab for making Unity project's AssetDatabase partially available in VRChat worlds using Udon",
+          "author": {
+            "name": "Varneon",
+            "url": "https://github.com/Varneon"
+          },
+          "dependencies": {
+            "com.vrchat.udonsharp": "1.0.1"
+          },
+          "vpmDependencies": {
+            "com.vrchat.udonsharp": "1.x.x"
+          },
+          "url": "https://github.com/Varneon/VUdon-UdonAssetDatabase/releases/download/0.1.0-alpha.1/com.varneon.vudon.udon-asset-database-0.1.0-alpha.1.zip?download"
+        }
+      }
     }
   }
 }
