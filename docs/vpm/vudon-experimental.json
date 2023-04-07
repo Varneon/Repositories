@@ -1,7 +1,7 @@
 {
   "name": "Varneon - VUdon - Experimental",
-  "author": "https://github.com/Varneon",
-  "url": "https://Varneon.github.io/Repositories/vpm/vudon-experimental.json",
+  "author": "developer@varneon.com",
+  "url": "https://vpm.varneon.com/vudon-experimental",
   "packages": {
     "com.varneon.vudon.seats": {
       "versions": {

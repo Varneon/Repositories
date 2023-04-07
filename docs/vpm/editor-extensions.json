@@ -1,7 +1,7 @@
 {
   "name": "Varneon - Editor Extensions",
-  "author": "https://github.com/Varneon",
-  "url": "https://Varneon.github.io/Repositories/vpm/editor-extensions.json",
+  "author": "developer@varneon.com",
+  "url": "https://vpm.varneon.com/editor-extensions",
   "packages": {
     "com.varneon.package-exporter": {
       "versions": {
